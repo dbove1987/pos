@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 export function TituloBlog() {
     return (    
         <div className={styles['titulo-blog']}>       
-            <div className={styles.titulo_blog__nome}>
+            <div className={styles["titulo-blog--nome"]}>
                 Seu nome
             </div> 
             <div className={styles["titulo_blog--descricao"]}>            
