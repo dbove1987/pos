@@ -1,0 +1,95 @@
+.blog__conteudo {
+  text-align: center;
+}
+
+.banner-principal {
+    background-color: #0959bb;    
+    min-height: 200px;    
+    height: auto;
+    padding-bottom: 10px;
+  }
+  
+  .banner-principal__logo  {
+    text-align: center;
+    padding-top: 49px;  
+  }
+
+  .banner-principal__logo img {
+    background-image: url(/cachorro.jpg);        
+    width: 120px;
+    height: 80px;
+    border-radius: 50%;
+  }
+
+  .banner-principal__titulo-blog {
+    padding-top: 15px; 
+  }
+
+  .menu {
+    color: #ffffff;
+  }
+
+  .menu__item {
+    display: inline-block;
+    margin-right: 2rem;
+  }
+
+  .menu__item--ativo {
+    font-weight: bold;
+    font-style: normal;
+  }
+
+  .titulo-blog {
+    color: #ffffff;
+  }
+
+
+  .titulo-blog--nome {
+    text-align: left;    
+    font-size: 2rem;
+  }
+  
+
+  .titulo-blog--descricao {
+    font-size: 0.75rem;
+    padding-top: 12px;
+  }
+
+  .ultimas-noticias {
+    padding-top: 30px;
+    text-align: left;
+  }
+
+  .ultimas-noticias__titulo {
+    font-size: 1rem;
+    padding-bottom: 20px;
+  }
+  
+  .ultimas-noticias__titulo {
+    font-size: 1.3rem;
+    font-weight: bold;
+  }
+
+  .ultimas-noticias__link-todos {
+    font-weight: bold;
+    color: #337aa5;
+  }
+
+  .noticias {
+    margin-bottom: 20px;;
+    max-width: 420px;
+  }
+
+  .noticias__titulo{
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+  }
+
+  .noticias__titulo--visualizada {
+    color: #337aa5;
+  }
+
+  .noticias__descricao {
+    font-size: 0.8rem;
+    font-style: italic;
+  }
